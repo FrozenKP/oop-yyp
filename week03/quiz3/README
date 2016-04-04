@@ -1,0 +1,4 @@
+#include <bits/stdc++.h>
+int main(){
+	puts("this_quiz_is_too_easy!!!");
+}
