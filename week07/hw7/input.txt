@@ -1,0 +1,18 @@
+
+./hw7 command1.txt
+cat result1.txt
+cat result1_1.txt
+
+./hw7 command2.txt
+cat result2.txt
+
+./hw7 command3.txt
+cat result3.txt
+
+./hw7 command4.txt
+cat result4.txt
+
+./hw7 command5.txt
+cat result5.txt
+
+(end) 

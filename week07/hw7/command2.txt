@@ -1,0 +1,5 @@
+removetag test.txt |1
+cat 
+removetag test.txt |1
+cat > result2.txt
+exit

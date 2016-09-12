@@ -1,0 +1,3 @@
+cat test.txt |1
+removetag |1 
+cat 
